@@ -1,0 +1,1 @@
+This app allows you to get and receive all messages in a parse database.
